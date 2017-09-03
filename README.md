@@ -1,1 +1,1 @@
-# geekprompt.github.io
+Ramblings of yet another software developer.
