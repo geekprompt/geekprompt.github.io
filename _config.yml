@@ -25,7 +25,7 @@ footer-links:
   instagram:
   linkedin: vatsal-mevada-6b60bb22
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: "enable"
   twitter:
   stackoverflow: users/4286990/vatsal-mevada
   youtube: # channel/<your_long_string> or user/<user-name>
