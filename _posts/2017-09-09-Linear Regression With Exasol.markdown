@@ -25,22 +25,22 @@ Using this feature we can leverage machine learning capabilities of R.
 
 - _EXASolution_
 
-  You can download EXASolution free version VM from [here](https://www.exasol.com/portal/display/DOWNLOAD/Free+Trial) and start the VM to bring on the EXASolution server. Once the VM is started, you can
+  You can download EXASolution free version VM from [here](https://www.exasol.com/portal/display/DOWNLOAD/Free+Trial){:target="_blank"} and start the VM to bring on the EXASolution server. Once the VM is started, you can
   see all necessary information to connect to the EXASolution server on the VM
   screen.
 
 - _EXAPlus_
 
   EXAplus provides user interface to manage your EXASolution database.
-  EXAPlus can be downloaded from [this link](https://www.exasol.com/portal/display/DOWNLOAD/6.0).
+  EXAPlus can be downloaded from [this link](https://www.exasol.com/portal/display/DOWNLOAD/6.0){:target="_blank"}.
 
 - _R_
 
-  You can download R for windows from [here](https://cran.r-project.org/).
+  You can download R for windows from [here](https://cran.r-project.org/){:target="_blank"}.
   R is a statistical language which bring machine learning capabilities.
 - _RStudio_
 
-  RStudio is an IDE for R. Free version of RStudio can be downloaded from [here](https://www.rstudio.com/products/rstudio/download/).
+  RStudio is an IDE for R. Free version of RStudio can be downloaded from [here](https://www.rstudio.com/products/rstudio/download/){:target="_blank"}.
 
   Note that this is an optional step. You can run R scripts directly from R
   console too.
@@ -49,7 +49,7 @@ Using this feature we can leverage machine learning capabilities of R.
 
   For windows following steps needs to be followed for this:
 
-  - Install RTools. Can be downloaded from [here](http://mirror.fcaglp.unlp.edu.ar/CRAN/bin/windows/Rtools/).
+  - Install RTools. Can be downloaded from [here](http://mirror.fcaglp.unlp.edu.ar/CRAN/bin/windows/Rtools/){:target="_blank"}.
     RTools is R's developer extension which allows you to build R package from
     source. This is need to build `r-exasol` plugin from it's source.
 
@@ -213,6 +213,9 @@ select ml.predict_lr(
 ) from ml.testing;
 
 {% endhighlight %}
+
+If you know better approach or if you face any queries then fill free to start
+a discussion in the comments section.
 
 _**References:**_
 
