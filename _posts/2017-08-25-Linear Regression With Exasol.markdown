@@ -2,7 +2,7 @@
 layout: post
 title:  "Linear Regression with EXASolution"
 date:   2017-08-25 00:34:23 +0530
-categories: machine learning, database
+categories: machine-learning, database
 comments: true
 ---
 
@@ -74,7 +74,7 @@ Using this feature we can leverage machine learning capabilities of R.
 
 **Dataset:**
 
-For this tutorial we will be using healthcare dataset available [here](http://college.cengage.com/mathematics/brase/understandable_statistics/7e/students/datasets/mlr/frames/frame.html){:target="_blank"}.
+For this tutorial I'll be using healthcare dataset available [here](http://college.cengage.com/mathematics/brase/understandable_statistics/7e/students/datasets/mlr/frames/frame.html){:target="_blank"}.
 
 The dataset contains following columns:
 
