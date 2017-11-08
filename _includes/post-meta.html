@@ -1,0 +1,11 @@
+<div class="details">
+  Written on {{ page.date | date: "%B %e, %Y" }} by
+  {% if page.author %}
+    {{ page.author }}
+  {% else %}
+    Vatsal Mevada
+  {% endif %} |
+  {% for tag in page.tags %}
+   <span class="post-tag">{{ tag }}</span>
+  {% endfor %}
+</div>
