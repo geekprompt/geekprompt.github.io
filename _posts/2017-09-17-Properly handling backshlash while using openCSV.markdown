@@ -2,7 +2,7 @@
 layout: post
 title:  "Properly handling backslashes using OpenCSV"
 date:   2017-09-17 14:36:00 +0530
-categories: csv, java, trouble-shooting
+tags: [csv, java, trouble-shooting]
 comments: true
 ---
 

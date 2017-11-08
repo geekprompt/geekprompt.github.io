@@ -2,7 +2,7 @@
 layout: post
 title:  "Linear Regression with EXASolution"
 date:   2017-09-09 12:36:23 +0530
-categories: machine-learning, database
+categories: [machine-learning, database]
 comments: true
 ---
 
