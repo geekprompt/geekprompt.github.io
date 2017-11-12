@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A minimal Java implementation for Double Exponential Smoothing for forecasting time series with linear trend"
-date: 2017-11-12 01:48:23 +0530
+date: 2017-11-12 19:57:23 +0530
 tags: [statistics, java, R]
 comments: true
 ---
