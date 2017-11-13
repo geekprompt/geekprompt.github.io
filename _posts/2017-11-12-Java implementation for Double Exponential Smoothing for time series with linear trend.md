@@ -17,7 +17,7 @@ focus on Holt-Winters method for Double Exponential Smoothing for forecasting
 time-series with linear trend.
 
 The dataset we will be using is "Air transportation data for all passengers with an Australian airline"
-which is same dataset used in examples of [this book]((https://www.otexts.org/fpp/6/1 ){:target="_blank"}) which I have used for reference.
+which is same dataset used in examples of [this book](https://www.otexts.org/fpp/6/1 ){:target="_blank"} which I have used for reference.
 
 Following is a minimal Java implementation for the same:
 
