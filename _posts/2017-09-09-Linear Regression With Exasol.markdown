@@ -198,7 +198,7 @@ run <- function(ctx) {
   colnames(df) <- c("id", "X1", "X2", "X3", "X4", "X5")
 
   ## predict and return prediction. Excluding id column and label column (X1) for prediction
-  prediction <- predict(reg, df[,3:6])
+  prediction <- predict(lr_model, df[,3:6])
 
   ctx$emit(prediction, df$X1, prediction-df$X1)
 }
@@ -206,6 +206,8 @@ run <- function(ctx) {
 
 --predict the data
 select ml.predict_lr(
+  id,
+  X1,
   X2,
   X3,
   X4,
