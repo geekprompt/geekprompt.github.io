@@ -14,7 +14,7 @@ _Whole-stage Code Generation_ and _Volcano Iterator Model_ will be out of scope 
 The _Whole-stage Code Generator_ generates Java code for a specific stage of a Spark job and Spark uses Janino to compile this dynamically generated
  code on-the-fly.
 
-The latest version of the Janino compiler maven package can be found [this](https://mvnrepository.com/artifact/org.codehaus.janino/janino) and can be
+The latest version of the Janino compiler maven package can be found [here](https://mvnrepository.com/artifact/org.codehaus.janino/janino) and can be
  included as part of your project.
 
 The following code demonstrates the compilation of a _Hello World_ Java program using Janino:
