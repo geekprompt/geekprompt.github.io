@@ -183,6 +183,8 @@ img {
 
 .site-info {
   float: left;
+  text-align: center;
+  width: 100%;
 
   @include mobile {
     float: none;
@@ -199,6 +201,10 @@ img {
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
+}
+
+.site-name img {
+  height: 2em;
 }
 
 .site-description {
